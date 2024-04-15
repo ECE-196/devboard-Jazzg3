@@ -25,3 +25,16 @@ Submission image changed from jpeg to png
 
 ### Removed
 ...
+
+## 4/15/2024
+### Contributors
+Aidan Garamendi
+
+### Added
+...
+
+### Changed
+Submission image size changed to help with display
+
+### Removed
+...
